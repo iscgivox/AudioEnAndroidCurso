@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a37329de4f91c9f716976bc5a22e61a1fae55f43">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cb5b2639fa0e0587f1a2104e13a371eae1ba974\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b90a76cacec843d18a7bdc3cc87e34c83283f9f">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5671c51144701a77e4710e35805bd4cfa930fbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SERVIDOR\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_06d9545f641367c5c99cd75d87e4cc7e73dbadc7\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captura_video.xml",
+        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\layout\\activity_captura_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_captura_foto.xml",
+        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\layout\\activity_captura_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capturar_audio.xml",
+        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\layout\\activity_capturar_audio.xml"
+    }
+]
