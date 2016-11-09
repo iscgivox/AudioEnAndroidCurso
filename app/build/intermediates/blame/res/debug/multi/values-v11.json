@@ -1,25 +1,469 @@
 [
     {
-        "outputFile": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endLine": 4,
-                    "endColumn": 12,
-                    "endOffset": 187
+                    "endColumn": 45,
+                    "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/values-v11/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 182,
+                        "startOffset": 177,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 316
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1603
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1608,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2029
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2034,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2456
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2461,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2881
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2886,
+                    "endColumn": 88,
+                    "endOffset": 2970
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2975,
+                    "endColumn": 100,
+                    "endOffset": 3071
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3076,
+                    "endColumn": 102,
+                    "endOffset": 3174
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endColumn": 102,
+                        "endOffset": 2893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3179,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2898,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4002
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 3721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4007,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4424
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3726,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4429,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4531
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4148,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4536,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4660
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4255,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4665,
+                    "endColumn": 70,
+                    "endOffset": 4731
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4384,
+                        "endColumn": 70,
+                        "endOffset": 4450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4736,
+                    "endColumn": 82,
+                    "endOffset": 4814
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4455,
+                        "endColumn": 82,
+                        "endOffset": 4533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4819,
+                    "endLine": 120,
+                    "endColumn": 12,
+                    "endOffset": 8745
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4538,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8750,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 12819
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8469,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 12824,
+                    "endColumn": 90,
+                    "endOffset": 12910
+                },
+                "from": {
+                    "file": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12543,
+                        "endColumn": 90,
+                        "endOffset": 12629
                     }
                 }
             }

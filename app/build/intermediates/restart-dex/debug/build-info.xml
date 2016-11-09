@@ -4,32 +4,32 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="85781525447109"
-    token="-4661105475421811542"
+    timestamp="191047645812901"
+    token="-2064379265196135137"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="392" />
+        duration="339" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="163" />
     <task
         name="verifier"
-        duration="0" />
+        duration="30" />
 
     <artifact
-        location="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\outputs\apk\app-debug.apk"
+        location="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="85781525447109"
+        timestamp="191047645812901"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\outputs\apk\app-debug.apk"
+            location="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

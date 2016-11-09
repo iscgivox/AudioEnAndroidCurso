@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/debug/jniLibs"/></dataSet></merger>

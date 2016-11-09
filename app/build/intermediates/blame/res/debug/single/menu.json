@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\menu\\captura_video.xml",
-        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\menu\\captura_video.xml"
+        "merged": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/res/merged/debug/menu/captura_video.xml",
+        "source": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/menu/captura_video.xml"
     },
     {
-        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\res\\merged\\debug\\menu\\captura_foto.xml",
-        "source": "C:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\src\\main\\res\\menu\\captura_foto.xml"
+        "merged": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/res/merged/debug/menu/captura_foto.xml",
+        "source": "/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/src/main/res/menu/captura_foto.xml"
     }
 ]

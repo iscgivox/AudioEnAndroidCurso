@@ -3,30 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="a37329de4f91c9f716976bc5a22e61a1fae55f43">
-        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5cb5b2639fa0e0587f1a2104e13a371eae1ba974\classes.dex" />
+        sha1="668def1c2716616abf5b2d349ebc1519947259a4">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_615fc8ca89d9b79656935965d85ce102180dd7cd/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3b90a76cacec843d18a7bdc3cc87e34c83283f9f">
-        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5671c51144701a77e4710e35805bd4cfa930fbd6\classes.dex" />
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_676a2fb1d9dee63df71f2d51327a8675f2bbaaa1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\SERVIDOR\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\SERVIDOR\AndroidStudioProjects\AudioEnAndroidCurso\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_06d9545f641367c5c99cd75d87e4cc7e73dbadc7\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_530ea8e96bba98316f26ede873922497b06b2987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_70da902c1d86373252d62b5c0d6d7c1ac0d497fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_507ab204e8c777853eeead889ce5151e7e6385f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_24097e5e69bfedccaa9537feeae177ece6164f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_61bf7e67bea1a83c493415e12fd5d95db775b89e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_422080fa99c4a5b7dad5e35d757320c92f0d04ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c52c128f8718ad3c92155f46e9c57c4c9e072ae3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f5989b564be1859a9a49218589edb03da71d0dd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0c752ed52f9527210e3cb63f2fd77897def7e9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4c7acdaa40ef2ba04a00464e766e6f6340d19557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_cadfaae541a7b037a899e48bf47d2313924106a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_eb0ff3045cad82c153d591162539883b12f3a75b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6f0f4ab7210c54540a462d2e646f7bd63fc41d1">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_466507eae0f961afb1aebacf0d61b7873abf0e7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_95f476923181fa606293e52a2bd4dc1e6543c4bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7361a5e32f52c7e9c91783791ff752967224c7ca/classes.dex" />
     </item>
 
 </items>

@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -28,14 +28,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.ivanvega.audioenandroidcurso.ActivityCapturarAudio"
-            android:label="Captura Audio" >
-            <intent-filter>
-                <action android:name="net.ivanvega.audioenandroidcurso.CAPTURARAUDIO" />
+        android:name="net.ivanvega.audioenandroidcurso.ActivityCapturarAudio"
+        android:label="Captura Audio" >
+        <intent-filter>
+            <action android:name="net.ivanvega.audioenandroidcurso.CAPTURARAUDIO" />
 
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
         <activity
             android:name="net.ivanvega.audioenandroidcurso.CapturaFoto"
             android:label="@string/title_activity_captura_foto" >

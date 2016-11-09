@@ -1,7 +1,7 @@
-#Tue Nov 08 07:19:49 CST 2016
-base.0=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5671c51144701a77e4710e35805bd4cfa930fbd6
+#Wed Nov 09 08:06:53 CST 2016
+base.0=/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_466507eae0f961afb1aebacf0d61b7873abf0e7c
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cb5b2639fa0e0587f1a2104e13a371eae1ba974\\classes.dex
-base.1=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5cb5b2639fa0e0587f1a2104e13a371eae1ba974
-file.0=C\:\\Users\\SERVIDOR\\AndroidStudioProjects\\AudioEnAndroidCurso\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5671c51144701a77e4710e35805bd4cfa930fbd6\\classes.dex
+file.1=/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_615fc8ca89d9b79656935965d85ce102180dd7cd/classes.dex
+base.1=/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_615fc8ca89d9b79656935965d85ce102180dd7cd
+file.0=/Users/alcohonsilver/AndroidStudioProjects/AudioEnAndroidCurso/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_466507eae0f961afb1aebacf0d61b7873abf0e7c/classes.dex
